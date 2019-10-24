@@ -6,3 +6,20 @@
 body {
     background-image: radial-gradient(circle at center, rgb(245, 245, 230) 50%, rgb(211, 207, 169) 100%)
 }
+#header {
+    text-align: center;
+}
+
+#menu1 div {
+    width:35px;
+    height: 5px;
+    background-color: black;
+    margin: 6px 0;
+}
+
+#menu2 div {
+    width:35px;
+    height: 5px;
+    background-color: rgb(189, 0, 0);
+    margin: 6px 0;
+}
